@@ -1,0 +1,14 @@
+[
+    {
+        "id": "employee1",
+        "name": "Ram Bhatt",
+        "projectId": "project2",
+        "department": "engineering"
+    },
+    {
+        "id": "employee2",
+        "name": "Shyam Daniel",
+        "projectId": "project1",
+        "department": "account"
+    }
+]
